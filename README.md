@@ -11,12 +11,12 @@ Inspired by: https://x.com/claudeai/status/2067325887909884315
 - Keeps a draft skill separate until evidence proves reuse.
 
 ## Quickstart
-Open `prototype/Brand Lock Trial Packet.md`, fill it during a real task, and attach proof before changing claims.
+Open prototype/Brand Lock Trial Packet.md, fill it during a real task, then complete prototype/Brand Lock Promotion Decision Card.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: first-trial packet and GitHub mirror created on 2026-06-19.
+Template-ready, not validated. Latest improvement: promotion decision card added on 2026-06-19 so future brand-lock evidence can be converted into a promote / pilot-only / iterate / hold decision.
 
 ## Roadmap
-- Fill the first trial packet.
-- Add a promotion decision card.
-- Promote or retire the skill draft after evidence exists.
+- Fill the first trial packet with real proof.
+- Complete the promotion decision card.
+- Promote, pilot, iterate, or hold only after evidence exists.

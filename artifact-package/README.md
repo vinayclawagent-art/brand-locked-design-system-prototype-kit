@@ -23,6 +23,7 @@ Claude Design turns brand and design-system constraints into an AI prototyping c
 
 ## Generated artifacts
 - Prototype: [[Brand-Locked Design System Prototype Kit/Brand Lock Trial Packet]]
+- Decision gate: [[Brand-Locked Design System Prototype Kit/Brand Lock Promotion Decision Card]]
 - Infographic: [[Brand-Locked Design System Prototype Kit/Brand Lock Workflow]]
 - Skill draft: [[brand-locked-ai-prototyping/SKILL]]
 - Improvement loop: [[Brand-Locked Design System Prototype Kit Loop]]
@@ -38,11 +39,12 @@ Drafted under `Artifacts/Skills/brand-locked-ai-prototyping/SKILL.md`; keep as d
 
 ## Improvement backlog
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
-- [ ] Add a promotion decision card after the first evidence packet is filled.
+- [x] Add a promotion decision card after the first evidence packet is filled.
 - [ ] Patch the skill draft only after evidence shows the workflow works.
 
 ## GitHub repo
 https://github.com/vinayclawagent-art/brand-locked-design-system-prototype-kit
 
 ## Change log
+- 2026-06-19: Added a fillable promotion decision card so future brand-lock evidence can be converted into a promote / pilot-only / iterate / hold decision before any README, prototype, or skill claims change.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
