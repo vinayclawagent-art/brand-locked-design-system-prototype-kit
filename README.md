@@ -14,7 +14,7 @@ Inspired by: https://x.com/claudeai/status/2067325887909884315
 Open prototype/Brand Lock Trial Packet.md, fill it during a real task, then complete prototype/Brand Lock Promotion Decision Card.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: promotion decision card added on 2026-06-19 so future brand-lock evidence can be converted into a promote / pilot-only / iterate / hold decision.
+Template-ready, not validated. Latest improvement: 2026-06-20 added Brand Lock Post-Trial Debrief Template as the post-trial evidence-to-patch gate; evidence pending.
 
 ## Roadmap
 - Fill the first trial packet with real proof.

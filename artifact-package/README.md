@@ -6,7 +6,7 @@ source_url: "https://x.com/claudeai/status/2067325887909884315"
 score: 9
 artifact_tracks: [prototype, infographic, skill, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-19
+last_improved: 2026-06-20
 github_repo: "https://github.com/vinayclawagent-art/brand-locked-design-system-prototype-kit"
 tags: [artifact-package, x-intel, claude-design, design-systems, prototyping]
 ---
@@ -37,6 +37,8 @@ Explain the source idea as a compact workflow Vinay can scan from Obsidian or Gi
 ## Skill candidate
 Drafted under `Artifacts/Skills/brand-locked-ai-prototyping/SKILL.md`; keep as draft until a real trial proves the procedure is reusable and non-duplicative.
 
+- Post-trial debrief: [[Brand-Locked Design System Prototype Kit/Brand Lock Post-Trial Debrief Template|Brand Lock Post-Trial Debrief Template]]
+
 ## Improvement backlog
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
 - [x] Add a promotion decision card after the first evidence packet is filled.
@@ -48,3 +50,4 @@ https://github.com/vinayclawagent-art/brand-locked-design-system-prototype-kit
 ## Change log
 - 2026-06-19: Added a fillable promotion decision card so future brand-lock evidence can be converted into a promote / pilot-only / iterate / hold decision before any README, prototype, or skill claims change.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-20: Added [[Brand-Locked Design System Prototype Kit/Brand Lock Post-Trial Debrief Template|Brand Lock Post-Trial Debrief Template]] as the evidence-to-patch debrief gate; prepared, not validated.

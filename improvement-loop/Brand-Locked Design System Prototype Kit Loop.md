@@ -5,8 +5,8 @@ source_note: "[[Claude Design as Brand-Locked AI Prototyping]]"
 package: "[[Brand-Locked Design System Prototype Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/brand-locked-design-system-prototype-kit"
 cadence: nightly
-last_improved: 2026-06-19
-next_focus: "Run [[Brand-Locked Design System Prototype Kit/Brand Lock Trial Packet]] on one real task, attach proof links, then complete [[Brand-Locked Design System Prototype Kit/Brand Lock Promotion Decision Card]] before changing README/prototype/skill claims."
+last_improved: 2026-06-20
+next_focus: "Run the next real trial, fill [[Brand-Locked Design System Prototype Kit/Brand Lock Post-Trial Debrief Template]], then patch README/prototype/skill claims from evidence only."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -20,7 +20,7 @@ Prototype: [[Brand-Locked Design System Prototype Kit/Brand Lock Trial Packet]]
 Template-ready, not validated. The package, prototype packet, promotion decision card, infographic, skill draft, and GitHub repo mirror exist.
 
 ## Next focus
-Run [[Brand-Locked Design System Prototype Kit/Brand Lock Trial Packet]] on one real task, attach proof links, then complete [[Brand-Locked Design System Prototype Kit/Brand Lock Promotion Decision Card]] before changing README/prototype/skill claims.
+Run the next real trial, fill [[Brand-Locked Design System Prototype Kit/Brand Lock Post-Trial Debrief Template]], then patch README/prototype/skill claims from evidence only.
 
 ## Evidence needed
 - Real input/example.
@@ -31,3 +31,4 @@ Run [[Brand-Locked Design System Prototype Kit/Brand Lock Trial Packet]] on one 
 ## Change log
 - 2026-06-19: Added [[Brand-Locked Design System Prototype Kit/Brand Lock Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.
 - 2026-06-19: Created loop and first artifact packet; prepared, not validated.
+- 2026-06-20: Added [[Brand-Locked Design System Prototype Kit/Brand Lock Post-Trial Debrief Template]] as the post-trial evidence-to-patch debrief gate; prepared, not validated.

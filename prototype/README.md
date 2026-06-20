@@ -2,7 +2,7 @@
 
 Source: [[Claude Design as Brand-Locked AI Prototyping]]
 
-Latest improvement: 2026-06-19 promotion decision card added. Template-ready; no validation proof has been claimed.
+Latest improvement: 2026-06-20 added `Brand Lock Post-Trial Debrief Template.md` as the post-trial evidence-to-patch debrief gate; evidence still pending.
 
 ## What it demonstrates
 A fillable trial kit for testing whether AI-generated product screens obey a brand/design system instead of producing generic SaaS UI.
